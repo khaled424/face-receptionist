@@ -1,4 +1,13 @@
-datasets/
+# Ignore full datasets
+datasets/CelebA/*
+datasets/FairFace/*
+datasets/LFW/*
+
+# But keep their README.md
+!datasets/CelebA/README.md
+!datasets/FairFace/README.md
+!datasets/LFW/README.md
+
 models/
 __pycache__/
 *.pyc

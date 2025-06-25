@@ -1,4 +1,4 @@
-# Facial Receptionist System
+ # Facial Receptionist System
 
 ## Goal
 Real-time face recognition with ID/name display.
